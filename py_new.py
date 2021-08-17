@@ -1,6 +1,3 @@
-print()
-for i in range(10):
-    print(i)
-
-print("kazi")
-print()
+from math import *
+r = int(input())
+print("Area of circle = ",pi*(r**2))
